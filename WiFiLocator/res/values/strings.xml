@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WiFiLocater</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button1">5s</string>
+    <string name="button2">10s</string>
+    <string name="button3">15s</string>
+    <string name="button4">20s</string>
+    <string name="enable_point">Show Calibrated Data</string>
+    <string name="disable_point">Hide Calibrated Data</string>
+
+</resources>
